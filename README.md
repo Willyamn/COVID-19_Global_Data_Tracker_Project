@@ -1,5 +1,4 @@
 # COVID-19_Global_Data_Tracker_Project
-# COVID-19 Global Data Tracker
 
 A Jupyter Notebook project that tracks and visualizes **COVID-19 data worldwide** using the latest dataset from [Our World in Data](https://ourworldindata.org/covid-19).  
 
